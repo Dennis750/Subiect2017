@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\bin\Debug\Turism.mdf
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\bin\Debug\Turism_log.ldf
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\bin\Debug\OlimpiadaCS2017.exe.config
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\bin\Debug\OlimpiadaCS2017.exe
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\bin\Debug\OlimpiadaCS2017.pdb
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.Form1.resources
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.Properties.Resources.resources
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.exe
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.pdb
+C:\Users\Elev\source\repos\OlimpiadaCS2017\OlimpiadaCS2017\obj\Debug\OlimpiadaCS2017.Form2.resources
